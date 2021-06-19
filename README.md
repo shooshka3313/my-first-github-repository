@@ -1,5 +1,4 @@
 # my-first-github-repository
 This is the my first GitHub repository,.......
 
-
-New change in Readme.md This line was modified locally
+This line was modified manually during confilicts resolution
